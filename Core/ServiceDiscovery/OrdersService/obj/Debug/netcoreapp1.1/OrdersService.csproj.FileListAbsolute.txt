@@ -1,0 +1,13 @@
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\bin\Debug\netcoreapp1.1\OrdersService.deps.json
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\bin\Debug\netcoreapp1.1\OrdersService.runtimeconfig.json
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\bin\Debug\netcoreapp1.1\OrdersService.runtimeconfig.dev.json
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\obj\Debug\netcoreapp1.1\OrdersService.csprojResolveAssemblyReference.cache
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\obj\Debug\netcoreapp1.1\OrdersService.AssemblyInfo.cs
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\bin\Debug\netcoreapp1.1\OrdersService.dll
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\bin\Debug\netcoreapp1.1\OrdersService.pdb
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\bin\Debug\netcoreapp1.1\Microservices.Common.dll
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\bin\Debug\netcoreapp1.1\ServiceDiscovery.dll
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\bin\Debug\netcoreapp1.1\Microservices.Common.pdb
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\bin\Debug\netcoreapp1.1\ServiceDiscovery.pdb
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\obj\Debug\netcoreapp1.1\OrdersService.dll
+C:\Dev\NETCore\Service Discovery\ServiceDiscovery\OrdersService\obj\Debug\netcoreapp1.1\OrdersService.pdb
