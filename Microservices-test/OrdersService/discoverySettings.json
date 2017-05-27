@@ -1,6 +1,6 @@
 ﻿{
   "serviceDiscoveryOptions": {
-    "name": "ServiceDiscovery.ConsulDiscoveryImpl",
+    "type": "Core.ServiceDiscovery.ConsulDiscoveryImpl",
     "host": "localhost",
     "port": 8500
   }

@@ -6,13 +6,13 @@ namespace Core.ServiceDiscovery
 {
     public class ServiceDiscoveryOptions
     {
-        public string Name { get; set; }
+        public string Type { get; set; }
         public string Host { get; set; }
         public int Port { get; set; }
         public int Heartbeat { get; set; }
         public string HealthCheckPath { get; set; }
         public Type GetImplementation()
-            => Type.GetType(Name);
+            => System.Type.GetType(Type) ;
     }
 
     internal static class ServiceDiscoveryOptionsExtensions
@@ -37,7 +37,7 @@ namespace Core.ServiceDiscovery
 
             return new ServiceDiscoveryOptions
             {
-                Name = section.GetValue<string>("name"),
+                Type = section.GetValue<string>("type") ?? throw new NullReferenceException("Type cannot be null. Check your configuration"),
                 Host = section.GetValue<string>("host"),
                 Port = section.GetValue<int>("port"),
                 HealthCheckPath = section.GetValue<string>("healthCheckPath"),
